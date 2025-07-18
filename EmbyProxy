@@ -1,0 +1,62 @@
+# NAME: EmbyProxy
+# AUTHOR: jehovist
+# DOMAIN: 52
+# DOMAIN-SUFFIX: 3
+# IP-CIDR: 1
+# TOTAL: 56
+DOMAIN,emby1.123456789.lol
+DOMAIN,emby.zn.al
+DOMAIN,zoxfree.3767483.xyz
+DOMAIN,cf.5msky.com:443
+DOMAIN,gy.meowfly.de
+DOMAIN,m.mobaiemby.site
+DOMAIN,ciallo.party
+DOMAIN,emby.feiniu.lol
+DOMAIN,pieclip.okbap.com
+DOMAIN,rjcf.rjf37.com
+DOMAIN,rjhkgcp.rjf37.com
+DOMAIN,emby.sexemby.com
+DOMAIN,emby.cancanbi.com
+DOMAIN,emby.dpeak.top
+DOMAIN,emby.violet.run
+DOMAIN,embycf.xytx.dpdns.org
+DOMAIN,cf.emby.my
+DOMAIN,cf.lemby.me
+DOMAIN,emby.711.lol
+DOMAIN,st.110.lol
+DOMAIN,emby.younoyes.com
+DOMAIN,plus.younoyes.com
+DOMAIN,global-endpoint.anisaga.tv
+DOMAIN,pandtv.de
+DOMAIN,media.nijigem.by
+DOMAIN,alphatvop.alphatvapp.top
+DOMAIN,eggtartemby.itsmyduty.top
+DOMAIN,cf.xmsl.org
+DOMAIN,kessoku-bando.biliblili.uk
+DOMAIN,www.023168.xyz
+DOMAIN,cfptv.ii00.cc
+DOMAIN,wptv.ii00.cc
+DOMAIN,cfgtv.ii00.cc
+DOMAIN,wgtv.ii00.cc
+DOMAIN,music.mefun.vip
+DOMAIN,tanhuatv.site
+DOMAIN,embyplus.org
+DOMAIN,emby.bangumi.ca
+DOMAIN,cf.odysseyplus.site
+DOMAIN,mini.jmsuper.com
+DOMAIN,emby.yunti.online
+DOMAIN,temby856.285286.xyz
+DOMAIN,cf.bili.rip
+DOMAIN,alphatvx.alphatvapp.top
+DOMAIN,onatoshi.114514.quest
+DOMAIN,hcemby.emby.moe
+DOMAIN,cctv.paoluma.de
+DOMAIN,abs.alphatvapp.top
+DOMAIN,emby.as174.de
+DOMAIN,rn.chilledmelon.com
+DOMAIN,cloudf.chilledmelon.com
+DOMAIN,alist7.eu.org
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,term.wtf
+DOMAIN-SUFFIX,cn2gias.uk
+IP-CIDR,38.129.138.74/32,no-resolve 
