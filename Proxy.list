@@ -1,9 +1,9 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
 # DOMAIN: 54
-# DOMAIN-SUFFIX: 3
+# DOMAIN-SUFFIX: 4
 # IP-CIDR: 1
-# TOTAL: 58
+# TOTAL: 59
 DOMAIN,emby.meowfly.net
 DOMAIN,emby1.123456789.lol
 DOMAIN,emby.zn.al
@@ -62,4 +62,6 @@ DOMAIN,cloudflare.v50.su
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
 DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,st.sakim.org
+
 IP-CIDR,38.129.138.74/32,no-resolve 
