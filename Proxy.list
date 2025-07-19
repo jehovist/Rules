@@ -1,9 +1,9 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 53
+# DOMAIN: 54
 # DOMAIN-SUFFIX: 3
 # IP-CIDR: 1
-# TOTAL: 57
+# TOTAL: 58
 DOMAIN,emby.meowfly.net
 DOMAIN,emby1.123456789.lol
 DOMAIN,emby.zn.al
@@ -57,6 +57,7 @@ DOMAIN,emby.as174.de
 DOMAIN,rn.chilledmelon.com
 DOMAIN,cloudf.chilledmelon.com
 DOMAIN,alist7.eu.org
+DOMAIN,cloudflare.v50.su
 
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
