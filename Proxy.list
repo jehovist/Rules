@@ -1,9 +1,14 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 55
-# DOMAIN-SUFFIX: 4
+# DOMAIN: 61
+# DOMAIN-SUFFIX: 3
 # IP-CIDR: 1
-# TOTAL: 60
+# TOTAL: 64
+DOMAIN,pe.cn2gias.uk
+DOMAIN,ptest.cn2gias.uk
+DOMAIN,emby.cn2gias.uk
+DOMAIN,emby01.cn2gias.uk
+DOMAIN,lite.cn2gias.uk
 DOMAIN,emby.meowfly.net
 DOMAIN,emby1.123456789.lol
 DOMAIN,emby.zn.al
@@ -62,7 +67,6 @@ DOMAIN,emby.hohai.eu.org
 
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
-DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,st.sakim.org
 
 IP-CIDR,38.129.138.74/32,no-resolve 
