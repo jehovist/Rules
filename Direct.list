@@ -1,9 +1,9 @@
 # NAME: EmbyDirect
 # AUTHOR: jehovist
-# DOMAIN: 38
+# DOMAIN: 39
 # DOMAIN-SUFFIX: 28
 # IP-CIDR: 5
-# TOTAL: 71
+# TOTAL: 72
 DOMAIN,emby.meowfly.net
 DOMAIN,sl.meowfly.de
 DOMAIN,asia.cn2gias.uk
@@ -32,6 +32,7 @@ DOMAIN,embymv.link
 DOMAIN,su.viclub.top
 DOMAIN,sj.viclub.top
 DOMAIN,ap-cn01.emby.bangumi.ca
+DOMAIN,ap-cn02.emby.bangumi.ca
 DOMAIN,p.once.im
 DOMAIN,sptv.ii00.cc
 DOMAIN,g.once.im
