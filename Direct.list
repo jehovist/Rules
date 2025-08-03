@@ -75,7 +75,7 @@ DOMAIN-SUFFIX,115cdn.de
 DOMAIN-SUFFIX,mobaiemby.site
 DOMAIN-SUFFIX,v50.su
 DOMAIN-SUFFIX,newneeship.com
-DOMAIN-SUFFIX,a02.azurefd.net
+DOMAIN-SUFFIX,azurefd.net
 
 IP-CIDR,178.239.124.220/32,no-resolve
 IP-CIDR,103.141.183.18/32,no-resolve
