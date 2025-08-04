@@ -1,9 +1,9 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 63
+# DOMAIN: 64
 # DOMAIN-SUFFIX: 3
 # IP-CIDR: 1
-# TOTAL: 67
+# TOTAL: 68
 DOMAIN,c2.staryuki.me
 DOMAIN,de2.staryuki.me
 DOMAIN,pe.cn2gias.uk
@@ -24,6 +24,7 @@ DOMAIN,emby.feiniu.lol
 DOMAIN,pieclip.okbap.com
 DOMAIN,rjcf.rjf37.com
 DOMAIN,rjhkgcp.rjf37.com
+DOMAIN,cdn.newneeship.com
 DOMAIN,emby.sexemby.com
 DOMAIN,emby.cancanbi.com
 DOMAIN,emby.dpeak.top
