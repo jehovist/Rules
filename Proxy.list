@@ -1,9 +1,10 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 65
+# DOMAIN: 66
 # DOMAIN-SUFFIX: 3
 # IP-CIDR: 1
-# TOTAL: 69
+# TOTAL: 70
+DOMAIN,play.embymv.top
 DOMAIN,c2.staryuki.me
 DOMAIN,de2.staryuki.me
 DOMAIN,pe.cn2gias.uk
