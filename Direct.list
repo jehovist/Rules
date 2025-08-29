@@ -1,9 +1,9 @@
 # NAME: EmbyDirect
 # AUTHOR: jehovist
-# DOMAIN: 41
+# DOMAIN: 42
 # DOMAIN-SUFFIX: 39
 # IP-CIDR: 9
-# TOTAL: 89
+# TOTAL: 90
 DOMAIN,wusir.sharepoint.cn
 DOMAIN,emby.meowfly.net
 DOMAIN,sl.meowfly.de
@@ -31,6 +31,7 @@ DOMAIN,mm.herefor.top
 DOMAIN,fun.poloemby.xyz
 DOMAIN,levilde.clun.top
 DOMAIN,embymv.link
+DOMAIN,white.embymv.link
 DOMAIN,ap-cn01.emby.bangumi.ca
 DOMAIN,ap-cn02.emby.bangumi.ca
 DOMAIN,p.once.im
