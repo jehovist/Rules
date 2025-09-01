@@ -1,7 +1,7 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 68
-# DOMAIN-SUFFIX: 4
+# DOMAIN: 67
+# DOMAIN-SUFFIX: 5
 # IP-CIDR: 1
 # TOTAL: 73
 DOMAIN,play.embymv.top
@@ -46,7 +46,6 @@ DOMAIN,media.nijigem.by
 DOMAIN,alphatvop.alphatvapp.top
 DOMAIN,eggtartemby.itsmyduty.top
 DOMAIN,cf.xmsl.org
-DOMAIN,kessoku-bando.biliblili.uk
 DOMAIN,www.023168.xyz
 DOMAIN,cfptv.ii00.cc
 DOMAIN,wptv.ii00.cc
@@ -77,5 +76,6 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
 DOMAIN-SUFFIX,st.sakim.org
 DOMAIN-SUFFIX,pilipiliultra.com
+DOMAIN-SUFFIX,biliblili.uk
 
 IP-CIDR,38.129.138.74/32,no-resolve 
