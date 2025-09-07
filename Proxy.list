@@ -1,9 +1,9 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
 # DOMAIN: 69
-# DOMAIN-SUFFIX: 5
+# DOMAIN-SUFFIX: 6
 # IP-CIDR: 1
-# TOTAL: 75
+# TOTAL: 76
 DOMAIN,emby.191920.xyz
 DOMAIN,emos.lol
 DOMAIN,play.embymv.top
@@ -79,5 +79,6 @@ DOMAIN-SUFFIX,term.wtf
 DOMAIN-SUFFIX,st.sakim.org
 DOMAIN-SUFFIX,pilipiliultra.com
 DOMAIN-SUFFIX,biliblili.uk
+DOMAIN-SUFFIX,poloemby.xyz
 
 IP-CIDR,38.129.138.74/32,no-resolve 
