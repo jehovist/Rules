@@ -1,7 +1,7 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 68
-# DOMAIN-SUFFIX: 7
+# DOMAIN: 67
+# DOMAIN-SUFFIX: 8
 # IP-CIDR: 1
 # TOTAL: 76
 DOMAIN,ichinosekotomi.191920.xyz
@@ -67,12 +67,12 @@ DOMAIN,hcemby.emby.moe
 DOMAIN,cctv.paoluma.de
 DOMAIN,abs.alphatvapp.top
 DOMAIN,emby.as174.de
-DOMAIN,rn.chilledmelon.com
-DOMAIN,cloudf.chilledmelon.com
 DOMAIN,alist7.eu.org
 DOMAIN,cloudflare.v50.su
 DOMAIN,emby.hohai.eu.org
+DOMAIN,cf.xgua.de
 
+DOMAIN-SUFFIX,chilledmelon.com
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,yixia.io
 DOMAIN-SUFFIX,st.sakim.org
