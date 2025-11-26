@@ -2,8 +2,8 @@
 # AUTHOR: jehovist
 # DOMAIN: 40
 # DOMAIN-SUFFIX: 44
-# IP-CIDR: 14
-# TOTAL: 98
+# IP-CIDR: 16
+# TOTAL: 100
 DOMAIN,wusir.sharepoint.cn
 DOMAIN,emby.meowfly.net
 DOMAIN,sl.meowfly.de
@@ -104,3 +104,5 @@ IP-CIDR,202.189.5.63/32,no-resolve
 IP-CIDR,103.83.72.53/32,no-resolve
 IP-CIDR,183.66.27.21/32,no-resolve
 IP-CIDR,110.42.98.202/32,no-resolve
+IP-CIDR,45.153.244.29/32,no-resolve
+IP-CIDR,178.239.125.136/32,no-resolve
