@@ -4,7 +4,6 @@
 # DOMAIN-SUFFIX: 8
 # IP-CIDR: 1
 # TOTAL: 76
-DOMAIN,ichinosekotomi.191920.xyz
 DOMAIN,emos.lol
 DOMAIN,play.embymv.top
 DOMAIN,c2.staryuki.me
@@ -31,6 +30,7 @@ DOMAIN,rjhkgcp.rjf37.com
 DOMAIN,115cdn.de
 DOMAIN,cdn.newneeship.com
 DOMAIN,cdn.sexemby.com
+DOMAIN,embycdn.sexemby.com
 DOMAIN,emby.cancanbi.com
 DOMAIN,emby.dpeak.top
 DOMAIN,emby.violet.run
