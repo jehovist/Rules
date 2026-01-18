@@ -1,9 +1,9 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 60
+# DOMAIN: 61
 # DOMAIN-SUFFIX: 8
 # IP-CIDR: 1
-# TOTAL:69
+# TOTAL:70
 DOMAIN,emos.lol
 DOMAIN,play.embymv.top
 DOMAIN,pe.cn2gias.uk
@@ -24,6 +24,7 @@ DOMAIN,pieclip.okbap.com
 DOMAIN,rjcf.rjf37.com
 DOMAIN,rjhkgcp.rjf37.com
 DOMAIN,115cdn.de
+DOMAIN,cdn.sexemby.com
 DOMAIN,stream-gd-1.sexemby.com
 DOMAIN,stream-115-1.sexemby.com
 DOMAIN,emby.dpeak.top
