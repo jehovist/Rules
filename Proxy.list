@@ -1,13 +1,11 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 66
+# DOMAIN: 60
 # DOMAIN-SUFFIX: 8
 # IP-CIDR: 1
-# TOTAL: 75
+# TOTAL:69
 DOMAIN,emos.lol
 DOMAIN,play.embymv.top
-DOMAIN,c2.staryuki.me
-DOMAIN,de2.staryuki.me
 DOMAIN,pe.cn2gias.uk
 DOMAIN,ptest.cn2gias.uk
 DOMAIN,emby.cn2gias.uk
@@ -16,7 +14,6 @@ DOMAIN,lite.cn2gias.uk
 DOMAIN,emby1.123456789.lol
 DOMAIN,public.shrekmedia.org
 DOMAIN,emby.zn.al
-DOMAIN,zoxfree.3767483.xyz
 DOMAIN,su.viclub.top
 DOMAIN,cf.5msky.com:443
 DOMAIN,gy.meowfly.de
@@ -27,10 +24,8 @@ DOMAIN,pieclip.okbap.com
 DOMAIN,rjcf.rjf37.com
 DOMAIN,rjhkgcp.rjf37.com
 DOMAIN,115cdn.de
-DOMAIN,cdn.newneeship.com
-DOMAIN,cdn.sexemby.com
-DOMAIN,embycdn.sexemby.com
-DOMAIN,emby.cancanbi.com
+DOMAIN,stream-gd-1.sexemby.com
+DOMAIN,stream-115-1.sexemby.com
 DOMAIN,emby.dpeak.top
 DOMAIN,emby.violet.run
 DOMAIN,embycf.xytx.dpdns.org
@@ -52,7 +47,6 @@ DOMAIN,wptv.ii00.cc
 DOMAIN,cfgtv.ii00.cc
 DOMAIN,wgtv.ii00.cc
 DOMAIN,music.mefun.vip
-DOMAIN,tanhuatv.site
 DOMAIN,embyplus.org
 DOMAIN,emby.bangumi.ca
 DOMAIN,cf.odysseyplus.site
@@ -69,7 +63,6 @@ DOMAIN,emby.as174.de
 DOMAIN,alist7.eu.org
 DOMAIN,cloudflare.v50.su
 DOMAIN,emby.hohai.eu.org
-DOMAIN,cf.xgua.de
 DOMAIN,mt.sttss.de
 
 DOMAIN-SUFFIX,chilledmelon.com
