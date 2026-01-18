@@ -1,20 +1,19 @@
 # NAME: EmbyDirect
 # AUTHOR: jehovist
-# DOMAIN: 41
-# DOMAIN-SUFFIX: 45
+# DOMAIN: 40
+# DOMAIN-SUFFIX: 44
 # IP-CIDR: 16
-# TOTAL: 102
+# TOTAL: 100
 DOMAIN,wusir.sharepoint.cn
-DOMAIN,emby.meowfly.net
-DOMAIN,sl.meowfly.de
+DOMAIN,cf.xgua.de
+DOMAIN,cf.icgua.de
+DOMAIN,cf.icegua.de
 DOMAIN,usa.nanflix.net
 DOMAIN,asia.cn2gias.uk
-DOMAIN,fast-1.staryuki.me.kiven.cc
-DOMAIN,fast-v6.staryuki.me.kiven.cc
 DOMAIN,emby1.zn.al
 DOMAIN,emby.badowhisper.top
 DOMAIN,emby.luoti.wangdai.us
-DOMAIN,hk.violet.run
+DOMAIN,violetcdn.fufuemby.top
 DOMAIN,zll.yutron.eu.org
 DOMAIN,emby.bwihz.cn
 DOMAIN,alihk.lemby.me
@@ -54,15 +53,14 @@ DOMAIN-SUFFIX,mobai.sbs
 DOMAIN-SUFFIX,mobaiemby.site
 DOMAIN-SUFFIX,mobaiemby.gay
 DOMAIN-SUFFIX,mobaiemby.com
-DOMAIN-SUFFIX,jiedaibao.gs
 DOMAIN-SUFFIX,embymv.top
-DOMAIN-SUFFIX,staryuki.me
 DOMAIN-SUFFIX,985211.link
 DOMAIN-SUFFIX,998903.x
 DOMAIN-SUFFIX,rjf37.com
 DOMAIN-SUFFIX,sexemby.com
 DOMAIN-SUFFIX,dogyx.com
 DOMAIN-SUFFIX,jiedaibao.gs
+DOMAIN-SUFFIX,daobi.xyz
 DOMAIN-SUFFIX,cancanbi.com
 DOMAIN-SUFFIX,xytx.dpdns.org
 DOMAIN-SUFFIX,emby.my
@@ -106,5 +104,5 @@ IP-CIDR,202.189.5.63/32,no-resolve
 IP-CIDR,103.83.72.53/32,no-resolve
 IP-CIDR,183.66.27.21/32,no-resolve
 IP-CIDR,110.42.98.202/32,no-resolve
-IP-CIDR,45.153.244.29/32,no-resolve
+IP-CIDR,45.143.131.228/32,no-resolve
 IP-CIDR,178.239.125.136/32,no-resolve
