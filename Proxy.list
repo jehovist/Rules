@@ -15,7 +15,6 @@ DOMAIN,emby1.123456789.lol
 DOMAIN,public.shrekmedia.org
 DOMAIN,emby.zn.al
 DOMAIN,su.viclub.top
-DOMAIN,cf.5msky.com:443
 DOMAIN,gy.meowfly.de
 DOMAIN,m.mobaiemby.site
 DOMAIN,ciallo.party
@@ -25,8 +24,9 @@ DOMAIN,rjcf.rjf37.com
 DOMAIN,rjhkgcp.rjf37.com
 DOMAIN,115cdn.de
 DOMAIN,db.jiedaibao.gs
+DOMAIN,db2.jiedaibao.gs
 DOMAIN,stream-gd-1.sexemby.com
-DOMAIN,stream-115-1.sexemby.com
+DOMAIN,stream-gd-2.sexemby.com
 DOMAIN,emby.dpeak.top
 DOMAIN,emby.violet.run
 DOMAIN,embycf.xytx.dpdns.org
