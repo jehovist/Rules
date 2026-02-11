@@ -1,9 +1,9 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 63
+# DOMAIN: 64
 # DOMAIN-SUFFIX: 8
 # IP-CIDR: 1
-# TOTAL:72
+# TOTAL:73
 DOMAIN,emos.lol
 DOMAIN,lite.saturdayvideo.top
 DOMAIN,emby666.alien666.de5.net
@@ -43,6 +43,7 @@ DOMAIN,pandtv.de
 DOMAIN,media.nijigem.by
 DOMAIN,alphatvop.alphatvapp.top
 DOMAIN,emby.levilde.bond
+DOMAIN,hkt.levilde.mom
 DOMAIN,cf.xmsl.org
 DOMAIN,www.023168.xyz
 DOMAIN,cfptv.ii00.cc
