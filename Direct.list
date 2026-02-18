@@ -1,9 +1,9 @@
 # NAME: EmbyDirect
 # AUTHOR: jehovist
-# DOMAIN: 39
+# DOMAIN: 40
 # DOMAIN-SUFFIX: 44
 # IP-CIDR: 15
-# TOTAL: 98
+# TOTAL: 99
 DOMAIN,wusir.sharepoint.cn
 DOMAIN,cf.xgua.de
 DOMAIN,cf.icgua.de
@@ -19,6 +19,7 @@ DOMAIN,emby.bwihz.cn
 DOMAIN,alihk.lemby.me
 DOMAIN,sthk.sttss.de
 DOMAIN,emby.wenjian.de
+DOMAIN,v.pdtvs.de
 DOMAIN,d.pandtv.de
 DOMAIN,cdn.pandtv.de
 DOMAIN,emby.ucloudhost.top
