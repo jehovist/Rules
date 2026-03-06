@@ -74,7 +74,7 @@ DOMAIN-SUFFIX,204cloud.com
 DOMAIN-SUFFIX,cdn.bgp.yt
 DOMAIN-SUFFIX,lyrebirdemby.com
 DOMAIN-SUFFIX,abcj.uk
-DOMAIN-SUFFIX,siepro.uk
+DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,223789.xyz
 DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN-SUFFIX,vfing.de
@@ -99,7 +99,7 @@ IP-CIDR,81.71.1.137/32,no-resolve
 IP-CIDR,43.248.142.114/32,no-resolve
 IP-CIDR,110.42.42.172/32,no-resolve
 IP-CIDR,178.239.124.220/32,no-resolve
-IP-CIDR,103.141.183.18/32,no-resolve
+IP-C/32,no-resolve
 IP-CIDR,81.71.1.137/32,no-resolve
 IP-CIDR,119.29.111.34/32,no-resolve
 IP-CIDR,106.53.76.122/32,no-resolve
