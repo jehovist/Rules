@@ -1,9 +1,9 @@
 # NAME: EmbyDirect
 # AUTHOR: jehovist
 # DOMAIN: 45
-# DOMAIN-SUFFIX: 43
+# DOMAIN-SUFFIX: 44
 # IP-CIDR: 15
-# TOTAL: 103
+# TOTAL: 104
 DOMAIN,emby.4348663.xyz
 DOMAIN,wusir.sharepoint.cn
 DOMAIN,cf.xgua.de
@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,handoumedia.top
 DOMAIN-SUFFIX,ycxdy.top
 DOMAIN-SUFFIX,lyrebirdemby.online
+DOMAIN-SUFFIX,hanb1ng.site
 
 IP-CIDR,110.42.42.71/32,no-resolve
 IP-CIDR,183.136.206.174/32,no-resolve
