@@ -2,8 +2,8 @@
 # AUTHOR: jehovist
 # DOMAIN: 45
 # DOMAIN-SUFFIX: 44
-# IP-CIDR: 15
-# TOTAL: 104
+# IP-CIDR: 14
+# TOTAL: 103
 DOMAIN,emby.4348663.xyz
 DOMAIN,wusir.sharepoint.cn
 DOMAIN,cf.xgua.de
@@ -101,7 +101,6 @@ IP-CIDR,81.71.1.137/32,no-resolve
 IP-CIDR,43.248.142.114/32,no-resolve
 IP-CIDR,110.42.42.172/32,no-resolve
 IP-CIDR,178.239.124.220/32,no-resolve
-IP-C/32,no-resolve
 IP-CIDR,81.71.1.137/32,no-resolve
 IP-CIDR,119.29.111.34/32,no-resolve
 IP-CIDR,106.53.76.122/32,no-resolve
