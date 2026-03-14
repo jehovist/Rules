@@ -1,9 +1,9 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 66
+# DOMAIN: 69
 # DOMAIN-SUFFIX: 8
 # IP-CIDR: 1
-# TOTAL:75
+# TOTAL:78
 DOMAIN,emos.lol
 DOMAIN,lite.saturdayvideo.top
 DOMAIN,emby666.alien666.de5.net
@@ -70,6 +70,9 @@ DOMAIN,alist7.eu.org
 DOMAIN,cloudflare.v50.su
 DOMAIN,emby.hohai.eu.org
 DOMAIN,mt.sttss.de
+DOMAIN,iris.niceduck.lol
+DOMAIN,cdn.irisnb.com
+DOMAIN,cf.iris520.us
 
 DOMAIN-SUFFIX,chilledmelon.com
 DOMAIN-SUFFIX,emby.wtf
