@@ -1,17 +1,13 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 69
+# DOMAIN: 65
 # DOMAIN-SUFFIX: 8
 # IP-CIDR: 1
-# TOTAL:78
+# TOTAL:74
 DOMAIN,emos.lol
 DOMAIN,lite.saturdayvideo.top
 DOMAIN,emby666.alien666.de5.net
 DOMAIN,play.embymv.top
-DOMAIN,pe.cn2gias.uk
-DOMAIN,ptest.cn2gias.uk
-DOMAIN,emby.cn2gias.uk
-DOMAIN,emby01.cn2gias.uk
 DOMAIN,lite.cn2gias.uk
 DOMAIN,emby1.123456789.lol
 DOMAIN,public.shrekmedia.org
