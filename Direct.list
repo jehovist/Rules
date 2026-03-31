@@ -1,9 +1,9 @@
 # NAME: EmbyDirect
 # AUTHOR: jehovist
-# DOMAIN: 48
+# DOMAIN: 49
 # DOMAIN-SUFFIX: 47
 # IP-CIDR: 16
-# TOTAL: 111
+# TOTAL: 112
 DOMAIN,emby.4348663.xyz
 DOMAIN,dayimakk.sharepoint.cn
 DOMAIN,wusir.sharepoint.cn
@@ -22,6 +22,7 @@ DOMAIN,emby.bwihz.cn
 DOMAIN,alihk.lemby.me
 DOMAIN,sthk.sttss.de
 DOMAIN,emby.wenjian.de
+DOMAIN,115.wenjian.de
 DOMAIN,v.pdtvs.de
 DOMAIN,d.pandtv.de
 DOMAIN,cdn.pandtv.de
