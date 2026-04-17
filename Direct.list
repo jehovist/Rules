@@ -1,14 +1,13 @@
 # NAME: EmbyDirect
 # AUTHOR: jehovist
-# DOMAIN: 48
+# DOMAIN: 47
 # DOMAIN-SUFFIX: 47
 # IP-CIDR: 16
-# TOTAL: 111
+# TOTAL: 110
 DOMAIN,emby.4348663.xyz
 DOMAIN,dayimakk.sharepoint.cn
 DOMAIN,wusir.sharepoint.cn
 DOMAIN,playlt.chilledmelon.com
-DOMAIN,play.chilledmelon.com
 DOMAIN,usa.nanflix.net
 DOMAIN,precdns.cn2gias.uk
 DOMAIN,s3.array2026.com
