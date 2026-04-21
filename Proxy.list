@@ -1,9 +1,9 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 65
+# DOMAIN: 64
 # DOMAIN-SUFFIX: 8
 # IP-CIDR: 1
-# TOTAL:74
+# TOTAL:73
 DOMAIN,play.chilledmelon.com
 DOMAIN,emby.sl.al
 DOMAIN,lite.saturdayent.top
@@ -68,7 +68,6 @@ DOMAIN,emby.hohai.eu.org
 DOMAIN,mt.sttss.de
 DOMAIN,iris.niceduck.lol
 DOMAIN,cdn.irisnb.com
-DOMAIN,cf.iris520.us
 
 DOMAIN-SUFFIX,zhezhi.art
 DOMAIN-SUFFIX,chilledmelon.com
