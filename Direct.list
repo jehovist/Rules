@@ -2,8 +2,8 @@
 # AUTHOR: jehovist
 # DOMAIN: 41
 # DOMAIN-SUFFIX: 47
-# IP-CIDR: 16
-# TOTAL: 104
+# IP-CIDR: 17
+# TOTAL: 105
 DOMAIN,emby.4348663.xyz
 DOMAIN,dayimakk.sharepoint.cn
 DOMAIN,wusir.sharepoint.cn
@@ -108,5 +108,6 @@ IP-CIDR,202.189.5.63/32,no-resolve
 IP-CIDR,103.83.72.53/32,no-resolve
 IP-CIDR,46.3.109.178/32,no-resolve
 IP-CIDR,45.143.131.228/32,no-resolve
+IP-CIDR,209.33.172.84/32,no-resolve
 IP-CIDR,178.239.125.136/32,no-resolve
 IP-CIDR,103.192.179.220/32,no-resolve
