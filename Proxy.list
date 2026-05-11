@@ -1,9 +1,9 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
-# DOMAIN: 61
+# DOMAIN: 60
 # DOMAIN-SUFFIX: 9
 # IP-CIDR: 1
-# TOTAL: 71
+# TOTAL: 70
 DOMAIN,play.chilledmelon.com
 DOMAIN,emby.sl.al
 DOMAIN,lite.saturdayent.top
@@ -22,7 +22,6 @@ DOMAIN,ciallo.party
 DOMAIN,emby.feiniu.lol
 DOMAIN,pieclip.okbap.com
 DOMAIN,ask.ash.yt
-DOMAIN,rjhkgcp.rjf37.com
 DOMAIN,115cdn.de
 DOMAIN,db.jiedaibao.gs
 DOMAIN,db2.jiedaibao.gs
