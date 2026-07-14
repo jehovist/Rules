@@ -1,9 +1,9 @@
 # NAME: EmbyProxy
 # AUTHOR: jehovist
 # DOMAIN: 60
-# DOMAIN-SUFFIX: 9
+# DOMAIN-SUFFIX: 8
 # IP-CIDR: 1
-# TOTAL: 70
+# TOTAL: 69
 DOMAIN,play.chilledmelon.com
 DOMAIN,emby.sl.al
 DOMAIN,lite.saturdayent.top
@@ -68,7 +68,6 @@ DOMAIN,emby101.origamiart.uk
 DOMAIN-SUFFIX,023168.xyz
 DOMAIN-SUFFIX,zhezhi.art
 DOMAIN-SUFFIX,chilledmelon.com
-DOMAIN-SUFFIX,ucloudhost.top
 DOMAIN-SUFFIX,st.sakim.org
 DOMAIN-SUFFIX,mebimmer.de
 DOMAIN-SUFFIX,pilipiliultra.com
