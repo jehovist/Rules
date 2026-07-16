@@ -1,9 +1,9 @@
 # NAME: EmbyDirect
 # AUTHOR: jehovist
 # DOMAIN: 42
-# DOMAIN-SUFFIX: 49
+# DOMAIN-SUFFIX: 47
 # IP-CIDR: 19
-# TOTAL: 110
+# TOTAL: 108
 DOMAIN,emby.43998362.xyz
 DOMAIN,emby.4348663.xyz
 DOMAIN,emby.4348665.xyz
@@ -20,10 +20,10 @@ DOMAIN,zll.yutron.eu.org
 DOMAIN,emby.bwihz.cn
 DOMAIN,alihk.lemby.me
 DOMAIN,emby.wenjian.de
-DOMAIN,v.pdtvs.de
-DOMAIN,d.pdtvs.de
-DOMAIN,m.pdtvs.de
-DOMAIN,cdn.pdtvs.de
+DOMAIN,ct.pdtvs.com
+DOMAIN,cu.pdtvs.com
+DOMAIN,cm.pdtvs.com
+DOMAIN,vip.pdtvs.com
 DOMAIN,lucky.ucloudhost.top
 DOMAIN,emby.jingzhe.pro
 DOMAIN,hka-emby.aliz.work
@@ -83,13 +83,11 @@ DOMAIN-SUFFIX,vfing.de
 DOMAIN-SUFFIX,viclub.top
 DOMAIN-SUFFIX,asubaka.de
 DOMAIN-SUFFIX,asubaka.top
-DOMAIN-SUFFIX,feiniu.lol
 DOMAIN-SUFFIX,chilledmelon.com
 DOMAIN-SUFFIX,simonvan.space
 DOMAIN-SUFFIX,115cdn.de
 DOMAIN-SUFFIX,emby.gay
 DOMAIN-SUFFIX,v50.su
-DOMAIN-SUFFIX,newneeship.com
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,handoumedia.top
 DOMAIN-SUFFIX,ycxdy.top
