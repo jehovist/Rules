@@ -96,7 +96,7 @@ DOMAIN-SUFFIX,lyrebirdemby.online
 DOMAIN-SUFFIX,hanb1ng.site
 DOMAIN-SUFFIX,cn2gias.uk
 
-IP-CIDR,124.222.127.3/32,no-resolve
+IP-CIDR,43.242.195.136/32,no-resolve
 IP-CIDR,124.221.142.148/32,no-resolve
 IP-CIDR,110.42.42.71/32,no-resolve
 IP-CIDR,110.42.98.202/32,no-resolve
